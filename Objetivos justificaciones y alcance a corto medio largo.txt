@@ -1,0 +1,54 @@
+Objetivos
+
+Objetivo principal
+
+Diseñar y analizar un sistema web inteligente para la validación y control de ingreso del personal en los Data Center de Claro Bogotá, con el propósito de optimizar los tiempos de autorización, reducir reprocesos y promover prácticas sostenibles mediante la digitalización del proceso actual.
+
+Objetivos Específicos. 
+
+•	Evaluar la viabilidad y el impacto del sistema propuesto, analizando si su implementación sería óptima y beneficiosa para la empresa en términos de eficiencia, seguridad y sostenibilidad.
+
+•	Diseñar un plan de capacitación para el personal de seguridad y los líderes, con el fin de guiarlos en el uso del nuevo sistema de ingreso, garantizando una adopción fácil, efectiva y sin resistencia al cambio.
+
+
+
+
+
+
+
+Metodología ágil seleccionada (Enlace de Tablero)
+Elegimos Scrum porque nos permitió trabajar de forma ágil, organizada y colaborativa. Dividimos el proyecto en sprints cortos, lo que facilitó ver avances reales en poco tiempo. Además, su enfoque flexible nos ayudó a adaptarnos a los cambios sin perder el rumbo.
+ Lo mejor fue la comunicación constante: cada miembro del equipo pudo aportar ideas, corregir a tiempo y crecer junto al proyecto. En pocas palabras, Scrum nos dio estructura, pero también libertad para crear.
+
+
+ 
+Ilustración 1 Tablero de metodología Scrum 1
+
+ 
+Ilustración 2 Tablero de metodología Scrum 2
+ 
+Ilustración 3 Tablero de metodología Scrum 3
+
+https://trello.com/invite/b/68e2f4e23f0dcbdbdcdad2d3/ATTI2611116b9ffd276ea69e93b46362988fD0A70B0C/sprint-3
+
+Justificación alcance corto, medio, largo
+
+Justificación
+La necesidad de optimizar los procesos de ingreso en los Data Center de Claro Bogotá es evidente. Hoy en día, las autorizaciones se gestionan de forma manual, entre correos, llamadas y registros en papel, generando demoras y reprocesos que afectan la eficiencia del trabajo.
+
+Y es que, en una era donde casi todo se automatiza, mantener procesos tan lentos se siente como correr con los zapatos atados. Por eso, este anteproyecto busca analizar y diseñar un sistema web de validación de ingreso, que no solo reduzca tiempos y errores, sino que también promueva la sostenibilidad al eliminar el uso innecesario de papel.
+Además, el proyecto permitirá aplicar de manera práctica los conceptos de análisis y diseño de sistemas, mostrando cómo la tecnología puede mejorar la organización, agilizar la comunicación y, en el fondo, hacer más humana la experiencia laboral dentro de un entorno tecnológico.
+
+Alcance Corto, Medio, Largo Plazo.
+
+Corto plazo.
+
+Analizar el proceso actual de ingreso del personal en los Data Center, identificar las principales fallas del sistema manual y definir los requerimientos funcionales y no funcionales del nuevo sistema web.
+
+Mediano plazo
+
+Diseñar la estructura del sistema, incluyendo diagramas de flujo, arquitectura general, base de datos y prototipos visuales que representen cómo sería la interacción del usuario.
+
+Largo plazo.
+
+Dejar una propuesta lista para su futura implementación, documentando el análisis, los diseños y las recomendaciones técnicas necesarias para el desarrollo del sistema en fases posteriores.

@@ -1,0 +1,51 @@
+Conclusiones
+
+El desarrollo del proyecto “Sistema Web de Validación de Ingreso del Personal en los Data Center de Claro Bogotá” permitió comprender que un sistema no solo debe ser eficiente, sino también cercano a las personas que lo usan.
+
+A través del Design Thinking, se logró empatizar con los usuarios y descubrir que el verdadero problema no era solo técnico, sino humano: la frustración por procesos lentos y la falta de control. De esas emociones nacieron ideas que inspiraron una solución digital más ágil, clara y sostenible.
+
+La aplicación de la metodología Scrum permitió organizar el trabajo en etapas concretas, con resultados visibles y colaboración constante. Cada entrega aportó valor real al sistema propuesto.
+
+En conjunto, este proyecto demuestra que la tecnología cobra sentido cuando se diseña desde la empatía, cuando escucha al usuario y transforma su experiencia diaria en algo más simple, ordenado y confiable.
+
+
+
+
+
+
+
+Anexos.
+Anexo A. enlace de tablero https://trello.com/invite/b/68e2f4e23f0dcbdbdcdad2d3/ATTI2611116b9ffd276ea69e93b46362988fD0A70B0C/sprint-3
+
+Anexo B. Enlace de repositorio GitHub
+ https://github.com/Migox123/Analisisydise-odesistemas.git
+
+Anexo C. Enlace de encuesta
+https://docs.google.com/forms/d/e/1FAIpQLSdacUefF_6qYetGPXZOs9gmkq03pSUhZPR-EGPGfD5I7Gl_BA/viewform?usp=header
+
+
+
+
+ 
+
+Lista de referencias
+Atlassian. (n.d.). ¿Qué es scrum? [+ Cómo empezar] | Atlassian. https://www.atlassian.com/es/agile/scrum
+
+Qué es SCRUM. (2021, September 20). Proyectos Ágiles. https://proyectosagiles.org/que-es-scrum/
+
+Design Thinking in Spanish – The first online platform to distribute free content in Spanish about the Design Thinking method and innovation. (n.d.). https://designthinking.es/?srsltid=AfmBOorWXupIleYhSj6EnlS9QQwF032kWq0F3EZhtg14abtyMZxUruoa&v=4587c4183c31
+
+
+Asana, T. (2025, February 25). Matriz de riesgos: cómo evaluar los riesgos para lograr el éxito del proyecto [2025] • Asana. Asana. https://asana.com/es/resources/risk-matrix-template
+
+
+Jain, A., & Jain, A. (2025, May 8). Requisitos funcionales y no funcionales (con ejemplos). Visure Solutions. https://visuresolutions.com/es/alm-guide/functional-vs-non-functional-requirements/
+
+
+pmoinformatica.com. (n.d.). Requerimientos funcionales: Ejemplos. https://www.pmoinformatica.com/2017/02/requerimientos-funcionales-ejemplos.html
+
+Qué es un diagrama de flujo. (2025b, September 23). Lucidchart. https://www.lucidchart.com/pages/es/que-es-un-diagrama-de-flujo
+
+
+Montiel, O. (2022, February 22). La guía para principiantes de Git y Github. freeCodeCamp.org. https://www.freecodecamp.org/espanol/news/guia-para-principiantes-de-git-y-github/
+
