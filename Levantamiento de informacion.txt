@@ -1,0 +1,21 @@
+Levantamiento de información (herramientas y conclusiones).
+Se aplicó un cuestionario corto pero muy intencionado, compuesto por 10 preguntas mixtas (cerradas y abiertas), con el fin de equilibrar datos medibles y respuestas más emocionales.
+ La encuesta se realizó de manera virtual y presencial, durante una jornada laboral en el Data Center, en un ambiente relajado, con la promesa de que no era una evaluación, sino una conversación abierta para construir algo mejor.
+Participaron 15 personas, entre ellas supervisores de seguridad, técnicos en infraestructura y líderes de área
+
+Del análisis de las respuestas, surgieron patrones claros:
+•	El 87% considera que el proceso actual es ineficiente.
+•	El 80% percibe falta de trazabilidad y registro digital.
+•	El 93% apoyaría la implementación de un sistema web.
+•	La emoción más frecuente en las respuestas abiertas fue frustración, seguida de esperanza por una solución digital.
+
+Se realiza una reunión con los supervisores de área y los encargados en el momento de realizar los ajustes y las modificaciones planteadas, evidenciando que más allá de los números, la encuesta reflejó algo más profundo: una necesidad emocional de alivio.
+ Los usuarios no solo pedían rapidez o tecnología; pedían descanso mental.
+ Querían confiar en que el sistema haría su parte y dejar de sentir que todo depende de su memoria o de una llamada a última hora.
+Además, las respuestas dejaron ver que el cambio no sería resistido, sino bienvenido, siempre que se construya desde la simplicidad y la empatía.
+Conclusiones
+Conclusiones
+El levantamiento de información mediante encuesta permitió conocer el sentir real de los usuarios, más allá de lo técnico.
+Las respuestas evidencian que el proceso actual genera desgaste emocional y operativo, afectando la productividad.
+Los datos obtenidos confirman la viabilidad y necesidad de desarrollar un sistema web centralizado, automatizado y accesible.
+Se concluye que la tecnología, bien aplicada, no solo mejora procesos, sino también el ánimo y la calidad de vida laboral de quienes la usan

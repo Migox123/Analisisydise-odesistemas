@@ -1,0 +1,45 @@
+Necesidad del problema.
+
+
+La verdad es que el problema va más allá de una simple cola de espera. Lo que se evidencia es la necesidad urgente de optimizar y modernizar el sistema de control de ingreso al Data Center, creando una herramienta que centralice y automatice las autorizaciones, eliminando las largas cadenas de correos y llamadas que hoy consumen tiempo y energía.
+
+Se necesita un sistema web intuitivo, donde los líderes registren a su equipo y los supervisores aprueben el ingreso con unos pocos clics. De este modo, el personal de seguridad solo tendría que consultar una lista digital, registrar el ingreso y salida del personal, y listo: sin papeles, sin confusiones, sin esperas eternas.
+
+Además, y esto no es menor el proyecto busca reducir el impacto ambiental de los registros físicos, apostando por un modelo más sostenible y alineado con las políticas verdes que muchas empresas tecnológicas están adoptando.
+
+En pocas palabras, la necesidad no solo es técnica, sino también humana y ambiental: ahorrar tiempo, reducir estrés y cuidar el planeta mientras se moderniza un proceso esencial para la operación diaria.
+
+
+Alcance del proyecto 
+
+El alcance de este proyecto se centra en analizar y diseñar un sistema web de validación de ingreso del personal que permita optimizar los tiempos de autorización y registro dentro de los Data Center de Claro en Bogotá.
+
+El proyecto no busca construir el software en su totalidad, sino definir su estructura conceptual, funcional y técnica, aplicando las metodologías, herramientas y técnicas aprendidas en el curso de Análisis y Diseño de Sistemas.
+
+
+El resultado final consistirá en la documentación detallada del sistema propuesto, incluyendo diagramas, requerimientos funcionales y no funcionales, modelo de datos, historias de usuario y flujos de proceso, así como la definición de los criterios de aceptación y la identificación de riesgos.
+
+
+
+
+
+
+
+
+Restricciones. 
+
+•	El proyecto no contempla el desarrollo completo del sistema ni su implementación real en la empresa.
+•	Se trabajará únicamente a nivel de prototipo funcional o diseño conceptual.
+•	Las pruebas del sistema serán simuladas o basadas en ejemplos teóricos.
+•	Se utilizarán herramientas gratuitas o académicas para el modelado y documentación
+
+
+
+Criterios de aceptación del proyecto.
+
+
+•	Presenta un análisis claro del problema y sus causas.
+•	Define correctamente los requerimientos del sistema (funcionales y no funcionales).
+•	Propone un diseño lógico y coherente del sistema web de validación de ingreso.
+•	Incluye diagramas, flujos y documentación acorde con los estándares del curso.
+•	Aplica adecuadamente una metodología ágil para la organización y seguimiento del proyecto.

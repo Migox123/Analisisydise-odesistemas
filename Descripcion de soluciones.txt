@@ -1,0 +1,27 @@
+Descripciones soluciones.
+
+La propuesta busca diseñar un sistema web que permita registrar, autorizar y controlar el ingreso del personal a los Data Center de Claro de forma digital. Con esta solución, los líderes podrán inscribir a su equipo, los supervisores aprobar en línea y el personal de seguridad validar el acceso en tiempo real.
+
+El diseño incluirá una interfaz sencilla, base de datos estructurada y roles definidos para cada usuario, con el fin de reducir tiempos de espera, eliminar el uso de papel y mejorar la eficiencia del proceso.
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Respuesta a los stakeholders.
+
+Líderes de área: podrán registrar y gestionar las autorizaciones de su equipo de manera rápida y organizada.
+
+Supervisores: validarán las solicitudes desde una sola plataforma, reduciendo reprocesos y llamadas.
+
+Personal de seguridad: contará con una lista digital actualizada en tiempo real, agilizando el control de acceso.
+
+La empresa: obtendrá un proceso más eficiente, trazable y sostenible al disminuir el uso de papel y optimizar recursos.
